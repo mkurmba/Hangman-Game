@@ -1,2 +1,4 @@
 # Hangman-Game
 The provided Python code is a text-based implementation of the game Hangman. The game prompts the player to enter their name and then starts the Hangman game. It selects a random word from one of several predefined categories (such as foods, countries, animals, instruments, colors, or sports). The player needs to guess the letters of the word one by one within a limited number of attempts. The game provides a hint about the category of the word. The player continues guessing until they either correctly guess the word or run out of attempts. After each guess, the game displays the current state of the word with the correctly guessed letters filled in. If the player guesses a wrong letter, a hangman figure is gradually drawn. The game allows the player to play again or exit after completing a round.
+
+The code utilizes functions, global variables, lists, loops, conditionals, and string manipulation to implement the Hangman game logic.
