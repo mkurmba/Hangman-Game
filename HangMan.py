@@ -136,7 +136,7 @@ def main():
       =====''']
 
 
-guessWords = ['checks']
+guessWords = []
 
 def guessOcurrence(guess):
     chrCnt = 0
